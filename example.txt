@@ -1,1 +1,1 @@
-hello this is the new example of git version control system 2.
+hello this is the new example of git version control system 2 in github.
